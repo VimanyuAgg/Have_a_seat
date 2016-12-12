@@ -26,20 +26,33 @@ booked, it will be reflected across all the apps in real time.
 Owners will get a valuable information on his dashboard via ML algorithm based on time slots of
 his restaurants, in order to give offers to targeted customers. These customers are crunched out
 by Epsilon- Greedy algorithm, their emails are fetched and sent to owner’s dashboard.
-Flow diagram for Customer:
-Architectural Flow Diagram for Restaurant Owners
-Screenshots & Explanation Of Application
-Welcome Page for Customer and Owner
+
+##Flow diagram for Customer:
+
+##Architectural Flow Diagram for Restaurant Owners
+
+
+##Screenshots & Explanation Of Application
+
+###Welcome Page for Customer and Owner
+
+
 This is the default landing page when a user (either customer/owner) enters the website :
-https://haveaseat.mybluemix.net ​ . This page contains the basic introduction to the concept of “Have A Seat”
+https://haveaseat.mybluemix.net .This page contains the basic introduction to the concept of “Have A Seat”
 as well as provides the links to facebook page of Have A Seat, contact information form at the end. User
-input ​ fields are protected from XSS attacks and SQL Injection.
+input fields are protected from XSS attacks and SQL Injection.
+
 Search page with search results and the “available seats“ on the restaurants
+
+
 This page gives the live status of seats availability when user searches based on location and/or restaurant
 name. User input is filtered in the search box so that the search works even if the user enters keywords
-without spaces, in different cases (upper/lower) etc. ​ Customer need not login to view the live seat
-availability.
-Seats view of restaurant for customer persona :
+without spaces, in different cases (upper/lower) etc. 
+Customer need not login to view the live seatavailability.
+
+###Seats view of restaurant for customer persona :
+
+
 Customer can select the available/white seat(s) from the seat layout. User is given a ticker to contact the
 Have A Seat development team in case he/she has any concerns. Customer can also send reviews
 regarding the restaurant on this page. The ​user reviews are fed to a sentimental analysis using NLTK
