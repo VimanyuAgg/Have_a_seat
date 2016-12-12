@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Sample Bluemix Python Web application
 
 The sample is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry.
@@ -61,3 +62,6 @@ if __name__ == "__main__":
 ```
 
 This is the port given to your application so that http requests can be routed to it. If the property is not defined then it falls back to port 5000 allowing you to run this sample appliction locally.
+=======
+# Have_a_seat
+>>>>>>> e59b1eb82b067515eb43966f107b8c4b6cf82c48
