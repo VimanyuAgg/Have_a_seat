@@ -8,10 +8,10 @@ Moreover, restaurant owners lose revenue (as well as food!) when a customer ente
 
 ##Target Audience:
 ###@Consumers: 
-Foodies who wish to eat at a diner in a specific location without making prior reservations.
+Foodies who wish to dine in a specific location without making prior reservations.
 
 ###@Owners: 
-Restaurant owner who doesn’t want to waste food and have seats in their restaurant when nearby restaurant is full.
+Restaurant owner who doesn’t want to waste food, would like to expand their customer-base by targeted marketing and have seats in their restaurant when nearby restaurant is full. 
 
 ##Proposed Solution:
 ###@Consumers: 
