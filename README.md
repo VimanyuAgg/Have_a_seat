@@ -3,10 +3,12 @@
 ###                                Link to website [Here](http://haveaseat.mybluemix.net)
 					            
 ##Problem Statement:
+
 How many times has it occurred that you went to a diner and couldn’t find a seat? You probably ended up spending time in long queues, ruining your dining experience and getting frustrated – not knowing that there is a diner with available seats on the next street or there was a seat available just a few minutes ago when you stopped just for a small chat.
 Moreover, restaurant owners lose revenue (as well as food!) when a customer enters the diner right after the owner closed the cash counter machine. So, there is a need to develop a platform on which the consumers and the restaurant owners can communicate real-time. 
 
 ##Target Audience:
+
 ###@Consumers: 
 Foodies who wish to dine in a specific location without making prior reservations.
 
@@ -14,6 +16,7 @@ Foodies who wish to dine in a specific location without making prior reservation
 Restaurant owner who doesn’t want to waste food, would like to expand their customer-base by targeted marketing and have seats in their restaurant when nearby restaurant is full. 
 
 ##Proposed Solution:
+
 ###@Consumers: 
 Foodies can now look up in the app and see if there is a seat available at the location where they want to eat. They can submit the request to book the seat, and the app will give them a time-limit to reach to the restaurant. If they reach the restaurant in the specified time, the owner can check-in them and mark their seat as booked. As soon as the owner marks the seat as booked, it will be reflected across all the apps in real time.
 
