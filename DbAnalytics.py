@@ -4,6 +4,7 @@ import time
 
 ##############
 ## This script will be deployed in bluemix with --no-route set to true
+## This script performs a cron job which finds the most eligible customer for filling the seats in a particular time slots
 
 ##############
 con = MongoClient("mongodb://abcd:qwerty@ds111798.mlab.com:11798/have_a_seat")
