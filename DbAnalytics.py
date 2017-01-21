@@ -38,6 +38,8 @@ def analytics():
     print 'All done'
 
 
+    #Analytics is done at 2 am in the morning to calculate the results for targeted marketing.
+    #Assumption is that it is highly improbable that the person eating in one time-slot will eat in another time-slot on the same day.
 schedule.every().day.at("2:00").do(analytics)
 
 while True:
